@@ -1,2 +1,2 @@
 # ft_printf
-Recode printf
+Recode printf with some flags.
